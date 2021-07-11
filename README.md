@@ -5,6 +5,8 @@
 - I am on F-1 visa with an OPT permit
 
 --------------------------Languages---------------------------
+
+
 Java
 Python
 C/C++
@@ -13,6 +15,8 @@ Javascript
 
 
 -------------------------Other skills----------------------
+
+
 Node
 React
 Linux
@@ -23,6 +27,8 @@ Computation models
 
 
 -------------------------Human Languages-------------------------
+
+
 Arabic  - native
 English - native
 Italian - basic
@@ -30,6 +36,8 @@ Italian - basic
 
 
 ------------------------Contact-------------------------------
+
+
 yazid.n.alamry@gmail.com
 
 
